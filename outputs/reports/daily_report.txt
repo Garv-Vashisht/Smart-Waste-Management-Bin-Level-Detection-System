@@ -1,9 +1,18 @@
 
+========================================
 SMART WASTE MANAGEMENT REPORT
+========================================
 
-Timestamp: 2026-06-12 09:48:46
-Fill Percentage: 35.14%
-Status: Low
-Temperature: 21.55
-Humidity: 79.55
+Timestamp: 2026-06-12 09:57:15
+
+Distance: 46.71 cm
+
+Fill Percentage: 53.29 %
+
+Status: Medium
+
+Temperature: 32.8
+
+Humidity: 46.22
+
 Alert: Bin operating normally.

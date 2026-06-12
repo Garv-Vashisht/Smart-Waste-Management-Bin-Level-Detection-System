@@ -10,3 +10,36 @@
 2026-06-12 09:48:46 | URGENT: Bin is Full. Collection Required.
 2026-06-12 09:48:46 | WARNING: Bin nearing capacity.
 2026-06-12 09:48:46 | WARNING: Bin nearing capacity.
+2026-06-12 09:56:51 | Full | URGENT: Bin is Full. Collection Required.
+2026-06-12 09:56:51 | High | WARNING: Bin nearing capacity.
+2026-06-12 09:56:51 | High | WARNING: Bin nearing capacity.
+2026-06-12 09:56:51 | High | WARNING: Bin nearing capacity.
+2026-06-12 09:56:51 | Full | URGENT: Bin is Full. Collection Required.
+2026-06-12 09:56:51 | High | WARNING: Bin nearing capacity.
+2026-06-12 09:56:51 | High | WARNING: Bin nearing capacity.
+2026-06-12 09:56:51 | High | WARNING: Bin nearing capacity.
+2026-06-12 09:56:51 | Full | URGENT: Bin is Full. Collection Required.
+2026-06-12 09:56:51 | Full | URGENT: Bin is Full. Collection Required.
+2026-06-12 09:56:51 | Full | URGENT: Bin is Full. Collection Required.
+2026-06-12 09:56:51 | High | WARNING: Bin nearing capacity.
+2026-06-12 09:56:51 | Full | URGENT: Bin is Full. Collection Required.
+2026-06-12 09:56:51 | High | WARNING: Bin nearing capacity.
+2026-06-12 09:56:51 | Full | URGENT: Bin is Full. Collection Required.
+2026-06-12 09:56:51 | High | WARNING: Bin nearing capacity.
+2026-06-12 09:56:51 | High | WARNING: Bin nearing capacity.
+2026-06-12 09:57:15 | High | WARNING: Bin nearing capacity.
+2026-06-12 09:57:15 | Full | URGENT: Bin is Full. Collection Required.
+2026-06-12 09:57:15 | High | WARNING: Bin nearing capacity.
+2026-06-12 09:57:15 | High | WARNING: Bin nearing capacity.
+2026-06-12 09:57:15 | Full | URGENT: Bin is Full. Collection Required.
+2026-06-12 09:57:15 | High | WARNING: Bin nearing capacity.
+2026-06-12 09:57:15 | Full | URGENT: Bin is Full. Collection Required.
+2026-06-12 09:57:15 | High | WARNING: Bin nearing capacity.
+2026-06-12 09:57:15 | High | WARNING: Bin nearing capacity.
+2026-06-12 09:57:15 | High | WARNING: Bin nearing capacity.
+2026-06-12 09:57:15 | High | WARNING: Bin nearing capacity.
+2026-06-12 09:57:15 | Full | URGENT: Bin is Full. Collection Required.
+2026-06-12 09:57:15 | High | WARNING: Bin nearing capacity.
+2026-06-12 09:57:15 | High | WARNING: Bin nearing capacity.
+2026-06-12 09:57:15 | Full | URGENT: Bin is Full. Collection Required.
+2026-06-12 09:57:15 | High | WARNING: Bin nearing capacity.

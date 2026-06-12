@@ -49,3 +49,103 @@ Timestamp,Distance(cm),Fill Percentage,Status,Temperature,Humidity,Alert
 2026-06-12 09:48:46,26.32,73.68,High,36.79,81.16,WARNING: Bin nearing capacity.
 2026-06-12 09:48:46,80.61,19.39,Empty,32.34,59.79,Bin operating normally.
 2026-06-12 09:48:46,64.86,35.14,Low,21.55,79.55,Bin operating normally.
+2026-06-12 09:56:51,8.43,91.57,Full,37.97,45.06,URGENT: Bin is Full. Collection Required.
+2026-06-12 09:56:51,30.8,69.2,Medium,33.57,55.74,Bin operating normally.
+2026-06-12 09:56:51,23.3,76.7,High,40.22,30.88,WARNING: Bin nearing capacity.
+2026-06-12 09:56:51,39.93,60.07,Medium,32.72,47.99,Bin operating normally.
+2026-06-12 09:56:51,41.01,58.99,Medium,34.55,67.35,Bin operating normally.
+2026-06-12 09:56:51,61.25,38.75,Low,34.35,67.13,Bin operating normally.
+2026-06-12 09:56:51,46.35,53.65,Medium,41.93,58.7,Bin operating normally.
+2026-06-12 09:56:51,84.33,15.67,Empty,29.85,88.0,Bin operating normally.
+2026-06-12 09:56:51,24.83,75.17,High,20.37,63.47,WARNING: Bin nearing capacity.
+2026-06-12 09:56:51,61.19,38.81,Low,24.7,87.99,Bin operating normally.
+2026-06-12 09:56:51,93.86,6.14,Empty,20.57,40.17,Bin operating normally.
+2026-06-12 09:56:51,35.5,64.5,Medium,26.78,50.8,Bin operating normally.
+2026-06-12 09:56:51,86.03,13.97,Empty,37.56,75.73,Bin operating normally.
+2026-06-12 09:56:51,47.8,52.2,Medium,29.05,46.59,Bin operating normally.
+2026-06-12 09:56:51,25.71,74.29,High,31.29,78.92,WARNING: Bin nearing capacity.
+2026-06-12 09:56:51,4.4,95.6,Full,40.25,37.67,URGENT: Bin is Full. Collection Required.
+2026-06-12 09:56:51,40.98,59.02,Medium,33.18,29.48,Bin operating normally.
+2026-06-12 09:56:51,56.66,43.34,Medium,42.44,79.35,Bin operating normally.
+2026-06-12 09:56:51,26.38,73.62,High,39.25,38.68,WARNING: Bin nearing capacity.
+2026-06-12 09:56:51,53.34,46.66,Medium,44.94,44.45,Bin operating normally.
+2026-06-12 09:56:51,69.97,30.03,Low,41.75,83.37,Bin operating normally.
+2026-06-12 09:56:51,49.51,50.49,Medium,37.74,74.62,Bin operating normally.
+2026-06-12 09:56:51,12.98,87.02,High,43.51,71.5,WARNING: Bin nearing capacity.
+2026-06-12 09:56:51,95.36,4.64,Empty,26.01,65.13,Bin operating normally.
+2026-06-12 09:56:51,81.56,18.44,Empty,27.36,76.49,Bin operating normally.
+2026-06-12 09:56:51,23.4,76.6,High,40.94,48.25,WARNING: Bin nearing capacity.
+2026-06-12 09:56:51,7.11,92.89,Full,20.9,69.25,URGENT: Bin is Full. Collection Required.
+2026-06-12 09:56:51,7.47,92.53,Full,36.19,64.35,URGENT: Bin is Full. Collection Required.
+2026-06-12 09:56:51,9.02,90.98,Full,37.99,46.98,URGENT: Bin is Full. Collection Required.
+2026-06-12 09:56:51,40.89,59.11,Medium,37.17,42.38,Bin operating normally.
+2026-06-12 09:56:51,92.13,7.87,Empty,29.92,83.15,Bin operating normally.
+2026-06-12 09:56:51,32.37,67.63,Medium,41.34,49.39,Bin operating normally.
+2026-06-12 09:56:51,18.76,81.24,High,27.57,88.48,WARNING: Bin nearing capacity.
+2026-06-12 09:56:51,56.49,43.51,Medium,23.37,50.26,Bin operating normally.
+2026-06-12 09:56:51,4.58,95.42,Full,32.69,42.82,URGENT: Bin is Full. Collection Required.
+2026-06-12 09:56:51,51.05,48.95,Medium,36.59,41.2,Bin operating normally.
+2026-06-12 09:56:51,78.91,21.09,Low,35.01,31.42,Bin operating normally.
+2026-06-12 09:56:51,39.1,60.9,Medium,40.72,45.14,Bin operating normally.
+2026-06-12 09:56:51,64.26,35.74,Low,42.37,29.38,Bin operating normally.
+2026-06-12 09:56:51,26.43,73.57,High,31.2,38.72,WARNING: Bin nearing capacity.
+2026-06-12 09:56:51,81.3,18.7,Empty,39.9,87.47,Bin operating normally.
+2026-06-12 09:56:51,38.8,61.2,Medium,43.75,51.05,Bin operating normally.
+2026-06-12 09:56:51,82.42,17.58,Empty,27.11,71.85,Bin operating normally.
+2026-06-12 09:56:51,4.04,95.96,Full,35.54,43.68,URGENT: Bin is Full. Collection Required.
+2026-06-12 09:56:51,35.92,64.08,Medium,33.06,31.21,Bin operating normally.
+2026-06-12 09:56:51,38.32,61.68,Medium,39.65,57.59,Bin operating normally.
+2026-06-12 09:56:51,12.48,87.52,High,35.98,85.49,WARNING: Bin nearing capacity.
+2026-06-12 09:56:51,16.74,83.26,High,22.92,66.28,WARNING: Bin nearing capacity.
+2026-06-12 09:56:51,72.24,27.76,Low,42.51,27.24,Bin operating normally.
+2026-06-12 09:56:51,60.28,39.72,Low,21.53,59.22,Bin operating normally.
+2026-06-12 09:57:15,51.69,48.31,Medium,37.78,41.55,Bin operating normally.
+2026-06-12 09:57:15,27.26,72.74,High,44.88,38.55,WARNING: Bin nearing capacity.
+2026-06-12 09:57:15,5.79,94.21,Full,29.52,33.08,URGENT: Bin is Full. Collection Required.
+2026-06-12 09:57:15,25.7,74.3,High,30.85,81.17,WARNING: Bin nearing capacity.
+2026-06-12 09:57:15,77.88,22.12,Low,23.97,37.48,Bin operating normally.
+2026-06-12 09:57:15,96.8,3.2,Empty,43.4,88.15,Bin operating normally.
+2026-06-12 09:57:15,48.8,51.2,Medium,44.69,29.69,Bin operating normally.
+2026-06-12 09:57:15,24.31,75.69,High,20.59,46.3,WARNING: Bin nearing capacity.
+2026-06-12 09:57:15,97.49,2.51,Empty,36.81,59.49,Bin operating normally.
+2026-06-12 09:57:15,1.45,98.55,Full,25.41,76.8,URGENT: Bin is Full. Collection Required.
+2026-06-12 09:57:15,14.46,85.54,High,31.26,55.61,WARNING: Bin nearing capacity.
+2026-06-12 09:57:15,82.38,17.62,Empty,35.07,38.4,Bin operating normally.
+2026-06-12 09:57:15,7.06,92.94,Full,20.36,70.62,URGENT: Bin is Full. Collection Required.
+2026-06-12 09:57:15,49.22,50.78,Medium,28.93,74.51,Bin operating normally.
+2026-06-12 09:57:15,19.59,80.41,High,21.11,36.49,WARNING: Bin nearing capacity.
+2026-06-12 09:57:15,21.86,78.14,High,37.03,77.03,WARNING: Bin nearing capacity.
+2026-06-12 09:57:15,30.11,69.89,Medium,32.46,79.66,Bin operating normally.
+2026-06-12 09:57:15,90.18,9.82,Empty,44.34,28.67,Bin operating normally.
+2026-06-12 09:57:15,87.94,12.06,Empty,43.74,57.91,Bin operating normally.
+2026-06-12 09:57:15,51.62,48.38,Medium,36.14,64.57,Bin operating normally.
+2026-06-12 09:57:15,39.28,60.72,Medium,34.26,50.21,Bin operating normally.
+2026-06-12 09:57:15,40.85,59.15,Medium,39.93,68.75,Bin operating normally.
+2026-06-12 09:57:15,87.23,12.77,Empty,22.1,59.02,Bin operating normally.
+2026-06-12 09:57:15,91.94,8.06,Empty,29.58,61.43,Bin operating normally.
+2026-06-12 09:57:15,30.04,69.96,Medium,24.68,40.58,Bin operating normally.
+2026-06-12 09:57:15,55.72,44.28,Medium,40.92,25.73,Bin operating normally.
+2026-06-12 09:57:15,84.39,15.61,Empty,31.79,43.42,Bin operating normally.
+2026-06-12 09:57:15,26.47,73.53,High,24.49,57.96,WARNING: Bin nearing capacity.
+2026-06-12 09:57:15,75.23,24.77,Low,36.72,41.89,Bin operating normally.
+2026-06-12 09:57:15,27.71,72.29,High,32.29,61.19,WARNING: Bin nearing capacity.
+2026-06-12 09:57:15,38.58,61.42,Medium,30.6,41.39,Bin operating normally.
+2026-06-12 09:57:15,46.38,53.62,Medium,41.01,56.41,Bin operating normally.
+2026-06-12 09:57:15,31.33,68.67,Medium,22.37,89.26,Bin operating normally.
+2026-06-12 09:57:15,53.34,46.66,Medium,36.76,34.17,Bin operating normally.
+2026-06-12 09:57:15,88.29,11.71,Empty,30.02,68.79,Bin operating normally.
+2026-06-12 09:57:15,34.23,65.77,Medium,39.82,34.49,Bin operating normally.
+2026-06-12 09:57:15,49.12,50.88,Medium,36.22,78.38,Bin operating normally.
+2026-06-12 09:57:15,7.25,92.75,Full,33.14,76.66,URGENT: Bin is Full. Collection Required.
+2026-06-12 09:57:15,91.0,9.0,Empty,24.92,40.26,Bin operating normally.
+2026-06-12 09:57:15,20.93,79.07,High,31.57,51.23,WARNING: Bin nearing capacity.
+2026-06-12 09:57:15,70.68,29.32,Low,20.67,66.36,Bin operating normally.
+2026-06-12 09:57:15,59.95,40.05,Medium,29.04,65.26,Bin operating normally.
+2026-06-12 09:57:15,56.92,43.08,Medium,37.97,25.28,Bin operating normally.
+2026-06-12 09:57:15,18.56,81.44,High,28.7,66.93,WARNING: Bin nearing capacity.
+2026-06-12 09:57:15,33.98,66.02,Medium,22.58,38.87,Bin operating normally.
+2026-06-12 09:57:15,9.68,90.32,Full,40.53,66.22,URGENT: Bin is Full. Collection Required.
+2026-06-12 09:57:15,43.35,56.65,Medium,25.18,65.41,Bin operating normally.
+2026-06-12 09:57:15,30.36,69.64,Medium,41.17,38.12,Bin operating normally.
+2026-06-12 09:57:15,28.95,71.05,High,40.8,44.05,WARNING: Bin nearing capacity.
+2026-06-12 09:57:15,46.71,53.29,Medium,32.8,46.22,Bin operating normally.
