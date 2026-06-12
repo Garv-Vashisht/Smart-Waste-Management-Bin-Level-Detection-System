@@ -1,0 +1,12 @@
+2026-06-12 09:48:46 | URGENT: Bin is Full. Collection Required.
+2026-06-12 09:48:46 | WARNING: Bin nearing capacity.
+2026-06-12 09:48:46 | WARNING: Bin nearing capacity.
+2026-06-12 09:48:46 | WARNING: Bin nearing capacity.
+2026-06-12 09:48:46 | URGENT: Bin is Full. Collection Required.
+2026-06-12 09:48:46 | WARNING: Bin nearing capacity.
+2026-06-12 09:48:46 | WARNING: Bin nearing capacity.
+2026-06-12 09:48:46 | WARNING: Bin nearing capacity.
+2026-06-12 09:48:46 | WARNING: Bin nearing capacity.
+2026-06-12 09:48:46 | URGENT: Bin is Full. Collection Required.
+2026-06-12 09:48:46 | WARNING: Bin nearing capacity.
+2026-06-12 09:48:46 | WARNING: Bin nearing capacity.
